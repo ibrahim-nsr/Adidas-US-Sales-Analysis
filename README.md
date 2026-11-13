@@ -2,7 +2,7 @@
 
 > **Independent data analytics portfolio project** focused on exploring US sales performance, product mix and retailer performance across **2020–2021**. This is not an official Adidas dashboard or an indication of affiliation with Adidas.
 
-![Dashboard landing page](screenshots/home.png)
+![Dashboard landing page](home.png)
 
 ## Project overview
 
@@ -18,15 +18,15 @@ The report features slicers for **Region, Date, Retailer and Product**, plus pag
 
 ### 1. Sales Overview
 
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](sales-overview.png)
 
 ### 2. Product Analysis
 
-![Product Analysis](screenshots/product-analysis.png)
+![Product Analysis](product-analysis.png)
 
 ### 3. Retailer Analysis
 
-![Retailer Analysis](screenshots/retailer-analysis.png)
+![Retailer Analysis](retailer-analysis.png)
 
 ## Selected insights
 
@@ -47,7 +47,6 @@ The following numbers are taken from the supplied dashboard screenshots, with sl
 - **West Gear** is the highest-sales retailer displayed at approximately **$32.4M**. Its operating profit in the retailer table is approximately **$12.20M**.
 - The monthly sales chart shows a marked increase from early **2021** relative to 2020. This is a descriptive observation, not a proven causal explanation.
 
-**Metric interpretation:** The **42% average operating margin** is a dashboard measure and should **not** be interpreted as `Total Operating Profit / Total Sales` (about **39.3%** from the rounded headline figures). Check the DAX definition before using it in a financial comparison. Figures and category totals are displayed at varying rounding levels.
 
 ## Tools and files
 
