@@ -58,8 +58,3 @@ The following numbers are taken from the supplied dashboard screenshots, with sl
 
 > GitHub cannot render a `.pbix` report interactively. Browse the previews above or download the Power BI file and open it in Power BI Desktop. A live interactive link may be added if published to an appropriate public-data workspace.
 
-## Notes
-
-- Observations above are based on the dashboard screenshots, not an independent verification of the underlying workbook or DAX measures.
-- Verify that the dataset is approved for public sharing before publishing the full dataset or a live report.
-- This work is presented for educational/portfolio purposes.
